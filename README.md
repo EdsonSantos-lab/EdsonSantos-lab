@@ -43,7 +43,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Bem-vindo ao meu GitHub!</h1>
+        <h2>Bem-vindo ao meu GitHub!</h2>
         <p>Esse é o meu espaço para compartilhar projetos e conhecimento.</p>
         <img class="python-logo" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Logo Python">
         <p class="tech">Tecnologia principal: <strong>Python</strong></p>
