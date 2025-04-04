@@ -3,7 +3,7 @@
 ## 😁 Sobre mim:
 <div>
 <p>
-  Sou um desenvolvedor, apaixonado por programação, cada vez mais me surpreendo com as tenologias de hoje.
+  Sou um desenvolvedor, apaixonado por programação, cada vez mais me surpreendo com as tenologias atuais.
   busco me desenvolver cadavez mais e aplimora meus conhecimentos 😊
 </p>  
 </div>
