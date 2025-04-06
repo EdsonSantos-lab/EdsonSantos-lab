@@ -3,8 +3,9 @@
 ## 😁 Sobre mim:
 <div>
 <p>
-  Sou um desenvolvedor, apaixonado por programação, cada vez mais me surpreendo com as tenologias atuais.
-  busco me desenvolver cadavez mais e aplimora meus conhecimentos 😊
+  Sou um jovem, apaixonado por programação, cada vez mais me surpreendo com as tenologias atuais.
+  busco me desenvolver cada vez mais e aprimora meus conhecimentos😊 atualmente estou cursando Licenciatura
+  em letras, focada especialmente no Inglês que vira a complementar na minha Carreira na area de Tecnologia..
 </p>  
 </div>
 
