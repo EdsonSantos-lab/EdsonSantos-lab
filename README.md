@@ -1,16 +1,17 @@
-### Olá, me chamo Edson ligado nas tecnologias!
+### Olá, me chamo Edson ligado em tecnologia!
 
 ## 😁 Sobre mim:
 <div>
-<link rel="stylesheet" href="style.css">
 <p>
   Sou um jovem, apaixonado por programação, cada vez mais me surpreendo com as tenologias atuais.
   busco me desenvolver cada vez mais e aprimora meus conhecimentos😊 atualmente estou cursando Licenciatura
-  em letras, focada especialmente no Inglês que vira a complementar na minha <p Class="ad">Carreira na área de Tecnologia</p>..
+  em letras, focada especialmente no Inglês que vira a complementar na minha Carreira na área de Tecnologia..
 </p>  
 </div>
 
-## 👻👨‍💻 <p Class="p1">Minhas Tecnologias:</p>
+
+
+## 👻👨‍💻 Minhas Tecnologias:
 
 <div style="display: inline_block">
 <img align="center" alt="C#" height="30" width="40"
