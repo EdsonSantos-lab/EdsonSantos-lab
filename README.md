@@ -7,11 +7,13 @@
   busco me desenvolver cada vez mais e aprimora meus conhecimentos😊 atualmente estou cursando Licenciatura
   em letras, focada especialmente no Inglês que vira a complementar na minha Carreira na área de Tecnologia..
 </p> 
-<img align="center" alt="pg" height="478" width="850"
+<img align="center" alt="pg" height="460" width="850"
 src="https://static.vecteezy.com/system/resources/thumbnails/051/294/582/large/male-worker-working-on-his-laptop-and-answering-questions-2d-cartoon-animation-free-video.jpg">
 </div>
 
 ## 👻👨‍💻 Minhas Tecnologias:
+
+
 
 
 <div style="display: inline_block">
