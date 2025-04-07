@@ -8,7 +8,7 @@
   em letras, focada especialmente no Inglês que vira a complementar na minha Carreira na área de Tecnologia..
 </p> 
 <img align="center" alt="pg" height="478" width="850"
-src="https://pt.vecteezy.com/video/51294582-masculino-trabalhador-trabalhando-em-dele-computador-portatil-e-respondendo-questoes-2d-desenho-animado-animacao">
+src="https://static.vecteezy.com/system/resources/thumbnails/051/294/582/large/male-worker-working-on-his-laptop-and-answering-questions-2d-cartoon-animation-free-video.jpg">
 </div>
 
 ## 👻👨‍💻 Minhas Tecnologias:
@@ -32,7 +32,7 @@ src="https://pt.vecteezy.com/video/51294582-masculino-trabalhador-trabalhando-em
 <div style="margin-right:30px">
 <a href="https://www.linkedin.com/in/edson-santos-6a60b3292/">
 <img align="center" alt="linkedin" height="60" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" "/>  << >>  
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" "/>    << >>    
 </a href>
 <a href="https://www.instagram.com/eds0_01/">
 <img align="center" alt="instagran" height="70" width="70"
