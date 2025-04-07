@@ -8,7 +8,7 @@
   em letras, focada especialmente no Inglês que vira a complementar na minha Carreira na área de Tecnologia..
 </p> 
 <img align="center" alt="pg" height="478" width="850"
-src="https://private-user-images.githubusercontent.com/157994782/300317275-b501c649-7461-40e7-a0ed-c46592c280e6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM5MDQwNzcsIm5iZiI6MTc0MzkwMzc3NywicGF0aCI6Ii8xNTc5OTQ3ODIvMzAwMzE3Mjc1LWI1MDFjNjQ5LTc0NjEtNDBlNy1hMGVkLWM0NjU5MmMyODBlNi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwNlQwMTQyNTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OGY4Nzg2MzJjOGU3MzU1NmUyMmU5ZWZkZTdhZGFiN2E5MjAxNTc0MTViNjEzZDYyMGM1ZjY3YTRmYjc5ZmQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.vcBeLpYOEBdYhJPhTdixJaq84I2u9Eu3lB4IB5zMicA">
+src="https://pt.vecteezy.com/video/51294582-masculino-trabalhador-trabalhando-em-dele-computador-portatil-e-respondendo-questoes-2d-desenho-animado-animacao">
 </div>
 
 ## 👻👨‍💻 Minhas Tecnologias:
