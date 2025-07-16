@@ -35,10 +35,6 @@ src="https://static.vecteezy.com/system/resources/thumbnails/051/294/582/large/m
 <div style="margin-right:30px">
  <a href="https://www.linkedin.com/in/edson-santos-6a60b3292/">
  <img align="center" alt="linkedin" height="30" width="30"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" "/>
-
- <a href="https://www.instagram.com/eds0_01/">
- <img align="center" alt="instagran" height="30" width="30"
- src="https://th.bing.com/th/id/OIP.I5QWUmsu_xoLdjbX6pRa7gHaHk?rs=1&pid=ImgDetMain"/>
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
 </div>
 
