@@ -1,6 +1,7 @@
 ### Olá, me chamo Edson ligado em tecnologia!
 
-## 😁 Sobre mim:
+                 
+## 😁 Sobre mim: <a href="https://siteperfil-production.up.railway.app/">conheca mais</a>
 <div>
 <p>
   Sou um jovem, apaixonado por programação, cada vez mais me surpreendo com as tenologias atuais.
