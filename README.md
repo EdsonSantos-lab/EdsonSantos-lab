@@ -9,7 +9,7 @@
   em letras, focada especialmente no Inglês que vira a complementar na minha Carreira na área de Tecnologia..
 </p> 
 <img align="center" alt="pg" height="460" width="850"
-src="https://static.vecteezy.com/system/resources/thumbnails/051/294/582/large/male-worker-working-on-his-laptop-and-answering-questions-2d-cartoon-animation-free-video.jpg">
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzZzI0c3I4MHdtMDk5a3k2YWdmMHY3a2Z2YjhreTE0cWo0eDU5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp">
 </div>
 
 ## 👻👨‍💻 Minhas Tecnologias:
