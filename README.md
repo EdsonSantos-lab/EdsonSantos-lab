@@ -1,7 +1,7 @@
 ### Olá, me chamo Edson ligado em tecnologia!
 
                  
-## 😁 Sobre mim: <a href="https://siteperfil-production.up.railway.app/">conheca mais</a>
+## 😁 Sobre mim: 
 
 <div>
 <p>
@@ -31,6 +31,14 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzZzI0c3I4MHdtMDk5a3k2Y
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="center" alt="Python" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img align="center" alt="node" height="30" width="40"
+  src="https://icon.icepanel.io/Technology/svg/Node.js.svg"/>
+<img align="center" alt="Python" height="30" width="40"
+  src="https://i.pinimg.com/originals/29/95/95/29959595fe22edde8408b060d3ac3d82.png"/>
+ <img align="center" alt="Python" height="30" width="40"
+  src="https://velog.velcdn.com/images/insung_na/post/9ed7f3a4-a3d4-4584-90c1-d278cff5e2e9/image.png"/>
+ 
+
 
   
 </div><br>
@@ -42,10 +50,10 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzZzI0c3I4MHdtMDk5a3k2Y
 <div style="margin-right:30px">
   
  <a href="https://www.linkedin.com/in/edson-santos-6a60b3292/">
- <img align="center" alt="linkedin" height="65" width="65"
+ <img align="center" alt="linkedin" height="63" width="63"
  src="https://static.vecteezy.com/system/resources/previews/018/930/480/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
 
- <a href="">
+ <a href="https://siteperfil-production.up.railway.app/">
  <img align="center" alt="linkedin" height="50" width="50"
  src="https://static.vecteezy.com/system/resources/previews/005/544/753/original/profile-icon-design-free-vector.jpg"/>
    
