@@ -6,8 +6,8 @@
 <div>
 <p>
   Sou um jovem, apaixonado por programação, cada vez mais me surpreendo com as tenologias atuais.
-  busco me desenvolver cada vez mais e aprimora meus conhecimentos😊 atualmente estou cursando Licenciatura
-  em letras, focada especialmente no Inglês que vira a complementar na minha Carreira na área de Tecnologia..
+  busco me desenvolver cada vez mais e aprimora meus conhecimentos. atualmente estou cursando
+  letras, focada especialmente no Inglês que vira a complementar na minha Carreira na área de Tecnologia..
 </p> 
 <img align="center" alt="pg" height="460" width="850"
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzZzI0c3I4MHdtMDk5a3k2YWdmMHY3a2Z2YjhreTE0cWo0eDU5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp">
@@ -42,8 +42,12 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzZzI0c3I4MHdtMDk5a3k2Y
 <div style="margin-right:30px">
   
  <a href="https://www.linkedin.com/in/edson-santos-6a60b3292/">
- <img align="center" alt="linkedin" height="30" width="30"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+ <img align="center" alt="linkedin" height="65" width="65"
+ src="https://static.vecteezy.com/system/resources/previews/018/930/480/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
+
+ <a href="">
+ <img align="center" alt="linkedin" height="50" width="50"
+ src="https://static.vecteezy.com/system/resources/previews/005/544/753/original/profile-icon-design-free-vector.jpg"/>
    
 </div>
 
