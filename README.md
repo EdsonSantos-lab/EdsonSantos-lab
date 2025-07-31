@@ -2,6 +2,7 @@
 
                  
 ## 😁 Sobre mim: <a href="https://siteperfil-production.up.railway.app/">conheca mais</a>
+
 <div>
 <p>
   Sou um jovem, apaixonado por programação, cada vez mais me surpreendo com as tenologias atuais.
@@ -12,12 +13,14 @@
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzZzI0c3I4MHdtMDk5a3k2YWdmMHY3a2Z2YjhreTE0cWo0eDU5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.webp">
 </div>
 
-## 👻👨‍💻 Minhas Tecnologias:
+## Minhas Tecnologias:
 
 
 
 
 <div style="display: inline_block">
+
+  
 <img align="center" alt="C#" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
 <img align="center" alt="HTML5#" height="30" width="40"
@@ -28,13 +31,19 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzZzI0c3I4MHdtMDk5a3k2Y
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="center" alt="Python" height="30" width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+
+  
 </div><br>
 
-## 🌏 Redes sociais:
+##  Redes sociais:
+
+
 
 <div style="margin-right:30px">
+  
  <a href="https://www.linkedin.com/in/edson-santos-6a60b3292/">
  <img align="center" alt="linkedin" height="30" width="30"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+   
 </div>
 
