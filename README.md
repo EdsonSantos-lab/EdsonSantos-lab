@@ -46,7 +46,11 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzZzI0c3I4MHdtMDk5a3k2Y
 
 
 <div style="margin-right:30px">
-  
+
+ <a href="https://www.instagram.com/eds0_01/?hl=pt-br">
+ <img align="center" alt="linkedin" height="40" width="40"
+ src="https://www.pngplay.com/wp-content/uploads/5/Instagram-Logo-PNG-Image-PNG.png"/> 
+   
  <a href="https://www.linkedin.com/in/edson-santos-6a60b3292/">
  <img align="center" alt="linkedin" height="63" width="63"
  src="https://static.vecteezy.com/system/resources/previews/018/930/480/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
