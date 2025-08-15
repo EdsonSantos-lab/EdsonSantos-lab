@@ -52,12 +52,16 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzZzI0c3I4MHdtMDk5a3k2Y
  src="https://www.pngplay.com/wp-content/uploads/5/Instagram-Logo-PNG-Image-PNG.png"/> 
    
  <a href="https://www.linkedin.com/in/edson-santos-6a60b3292/">
- <img align="center" alt="linkedin" height="63" width="63"
+ <img align="center" alt="linkedin" height="64" width="64"
  src="https://static.vecteezy.com/system/resources/previews/018/930/480/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
 
  <a href="https://siteperfil-production.up.railway.app/">
- <img align="center" alt="linkedin" height="50" width="50"
+ <img align="center" alt="linkedin" height="52" width="52"
  src="https://static.vecteezy.com/system/resources/previews/005/544/753/original/profile-icon-design-free-vector.jpg"/>
+
+ <a href="https://www.tiktok.com/@edsonsantos7498">
+ <img align="center" alt="TIKTOK" height="40" width="40"
+ src="https://static.vecteezy.com/system/resources/previews/023/741/129/original/tiktok-logo-icon-social-media-icon-free-png.png"/>
    
 </div>
 
