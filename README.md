@@ -55,7 +55,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVzZzI0c3I4MHdtMDk5a3k2Y
  <img align="center" alt="linkedin" height="64" width="64"
  src="https://static.vecteezy.com/system/resources/previews/018/930/480/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png"/>
 
- <a href="https://siteperfil-production.up.railway.app/">
+ <a href="https://edsonsantos-lab.github.io/portifolio/">
  <img align="center" alt="linkedin" height="52" width="52"
  src="https://static.vecteezy.com/system/resources/previews/005/544/753/original/profile-icon-design-free-vector.jpg"/>
 
